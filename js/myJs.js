@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Hé luu chị, dạo này khỏe khum?, có ny chưa zị !",
-  text2: "em có điều này muốn hỏi chị nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Hix, chạ biết dạo nài e bị sao, tự dưng  thích c quá đi òy  ._. , c cũng thích e đúng khum :v",
-  text4: " khụ khụ :v , cái đoạn cảm xúc.. đi qua thương nhớ ;-; c không trả lời mà thoát ra tức là muốn làm zợ e đó nha -.-",
-  text5: "m mơ à???",
-  text6: "Thích m quá trừi luôn <3",
-  text7: "lí do chị thích e đi :vvvv",
-  text8: "Gửi cho iem <3",
-  text9: "Vì e đẹp try, hiền lành, tốt bụng, nói chung là dễ thương vlllll, không thể chịu nổi",
-  text10: "Hé hé hé, e biết mà ^^ , iu chị 3000  ",
+  text1: "Hé luu b, dạo này khỏe khum?, có ny chưa zị !",
+  text2: "tui có điều này muốn hỏi b nhớ phải trả lời thật lòng nhaaa.",
+  text3: "Hix, chạ biết dạo nài t bị sao, tự dưng  thích b quá đi òy  ._. , b cũng thích t đúng khum :v",
+  text4: " khụ khụ :v  b không trả lời mà thoát ra tức là muốn làm zợ tui đó nha -.-",
+  text5: " ảo ma zhizuka hả cha???",
+  text6: "Thích b quá trừi luôn <3",
+  text7: "lí do b thích tui đi :vvvv",
+  text8: "Gửi cho tuii nè <3",
+  text9: "Vì b chuyên đẹp try, hiền lành, tốt bụng, nói chung là dễ thương vlllll, không thể chịu nổi",
+  text10: "Hé hé hé, t biết mà ^^ , iu b 3000 năm :3 ",
   text11:
-    "Bữa nào về gọi eim mua trà sữa cho  nhaa :v Còn thấy nhớ e qua thì cứ ib nhé, há há há ..",
+    "Bữa nào về gọi tui mua trà sữa cho  nhaa :v Còn thấy nhớ t qua thì cứ ib nhé, há há há ..",
   text12: "Okii lunn <3",
 };
 
